@@ -1,0 +1,16 @@
+#maincontainer {
+    width: 600px;
+    height: 860px;
+    background-color: purple;
+    position: relative;
+    
+    
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: bolder;
+    padding-top: 25px;
+    
+}
+
